@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderstringify",
+        "uuid": 29858552,
+        "checksum": "r7hbjk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
